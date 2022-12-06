@@ -1,5 +1,5 @@
 import turtle
-int i=0
+i=0
 
 while i<6:
     turtle.penup()
